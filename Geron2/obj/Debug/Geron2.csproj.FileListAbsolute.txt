@@ -1,0 +1,7 @@
+C:\Users\egor8\Downloads\Geron2\Geron2\bin\Debug\Geron2.exe.config
+C:\Users\egor8\Downloads\Geron2\Geron2\bin\Debug\Geron2.exe
+C:\Users\egor8\Downloads\Geron2\Geron2\bin\Debug\Geron2.pdb
+C:\Users\egor8\Downloads\Geron2\Geron2\obj\Debug\Geron2.csproj.AssemblyReference.cache
+C:\Users\egor8\Downloads\Geron2\Geron2\obj\Debug\Geron2.csproj.CoreCompileInputs.cache
+C:\Users\egor8\Downloads\Geron2\Geron2\obj\Debug\Geron2.exe
+C:\Users\egor8\Downloads\Geron2\Geron2\obj\Debug\Geron2.pdb
